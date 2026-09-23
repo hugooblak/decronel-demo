@@ -5,6 +5,7 @@
  */
 return array(
 	'foretag'        => 'Decron EL AB',
+	'bransch'        => 'Elektriker',
 	'telefon'        => '08-84 40 55',
 	'telefon_tel'    => '+468844055',
 	'ort'            => 'Vällingby',
